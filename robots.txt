@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://reformparty.uk.com/sitemap.xml
